@@ -6,8 +6,8 @@ class PhotoSet extends Component {
 
     return (
       <div
-      className="PhotoSet"
-      id={project.id}
+        className="PhotoSet"
+        id={project.id}
       >
         <h2>{project.title}</h2>
         <p><a href='#Nav' title='back'>back</a></p>
